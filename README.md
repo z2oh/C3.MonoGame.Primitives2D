@@ -1,9 +1,9 @@
 # C3.MonoGame.Primitives2D
 
-This is simply the XNA Primitives Shapes project project ported over to MonoGame.
-I updated the refrences to refrence the MonoGame framework and nothing more.
-I wrote none of this code. This is the project page: http://jcpmcdonald.com/libraries/2d-xna-primitive-shapes/ 
-and the bitbucket repository https://bitbucket.org/C3/2d-xna-primitives/wiki/Home .
+This is simply the XNA Primitives Shapes project ported over to MonoGame.
+I updated the refrences to refrence the MonoGame framework and nothing more. I wrote none of this code.
+
+This is the project page: http://jcpmcdonald.com/libraries/2d-xna-primitive-shapes/ and the bitbucket repository https://bitbucket.org/C3/2d-xna-primitives/wiki/Home .
 
 Those sources hold documentation on how to use this library. I have found it very useful in my projects.
 
